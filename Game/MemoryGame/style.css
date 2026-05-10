@@ -1,0 +1,15 @@
+.card{
+    width: 50px;
+    height: 90px;
+    text-align: center;
+    border: 1px solid blue;
+}
+
+.back{
+    background-image: url(card.png);
+    background-size: 50px 90px;
+}
+
+#scores{
+    border: 2px solid aqua;
+}
